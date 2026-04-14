@@ -1,0 +1,9 @@
+{
+  "nav": { "home": "Ana Sayfa", "about": "Hakkımızda", "services": "Hizmetler", "countries": "Ülkeler", "blog": "Blog", "contacts": "İletişim", "quote": "Teklif İste" },
+  "hero": {
+    "title": "Global sertifikasyon, test ve pazar erişimi — netleştirildi",
+    "subtitle": "ATEX ve CE'den ISO, GCC, denetim ve danışmanlığa kadar üreticilerin daha hızlı ve daha düşük riskle ilerlemesini sağlıyoruz.",
+    "primary": "Teklif İste",
+    "secondary": "Toplantı Planla"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "nav": { "home": "Home", "about": "About", "services": "Services", "countries": "Countries", "blog": "Blog", "contacts": "Contacts", "quote": "Request a Quote" },
+  "hero": {
+    "title": "Global certification, testing, and market access — made clear",
+    "subtitle": "From ATEX and CE to ISO, GCC, inspection, and consultancy — we help manufacturers move faster with less risk.",
+    "primary": "Request a Quote",
+    "secondary": "Book a Meeting"
+  }
+}

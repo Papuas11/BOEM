@@ -1,0 +1,9 @@
+{
+  "nav": { "home": "首页", "about": "关于我们", "services": "服务", "countries": "国家/市场", "blog": "博客", "contacts": "联系", "quote": "申请报价" },
+  "hero": {
+    "title": "全球认证、测试与市场准入——清晰高效",
+    "subtitle": "从 ATEX、CE 到 ISO、GCC、检验与咨询，我们帮助制造商以更低风险更快进入目标市场。",
+    "primary": "申请报价",
+    "secondary": "预约会议"
+  }
+}
